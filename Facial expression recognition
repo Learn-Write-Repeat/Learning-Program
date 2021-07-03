@@ -1,0 +1,13 @@
+Introduction to the project:-
+
+In this project which is made using opencv and machine learning concept's ,can process and output the Facial Expression and predict a person's thought/expressions.
+
+The dataset used here can be taken from -> Link "https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data"
+
+Frameworks/Technologies that helped in the completion of this project are :-
+
+            ->PYTHON 
+            ->MACHINE LEARNING
+            ->OPEN-CV
+            ->ANACONDA
+            ->JUPITER NOTEBOOK
