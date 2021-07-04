@@ -15,10 +15,10 @@ Optical flow is the pattern of apparent motion of image objects between two cons
     
 The illustration of Object Tracking using Optical flow has been done in this respective project.
 
- Optical Flow Samples:
+ Optical Flow Sample:
  
-  ![image](https://github.com/RechRaj/Learning-Program/blob/main/OpenCV_ObjectTracking/330px-Optical_flow_example_v2.png)
-  ![image](https://github.com/RechRaj/Learning-Program/blob/main/OpenCV_ObjectTracking/330px-Optical_flow_example_v2.png)
+  ![image](https://github.com/RechRaj/Learning-Program/blob/main/OpenCV_ObjectTracking/dense_optical_flow_1.gif)
+  
   
 Get the complete source code ![here].
     
