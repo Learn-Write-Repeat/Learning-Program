@@ -9,7 +9,7 @@
 	2. Mr. Kranti Kumar Choudhury - Performed Data preprocessing. <a href="#"><img width=80px src="https://user-images.githubusercontent.com/50140975/124541137-6f34c500-de3e-11eb-86bb-38abcac5011e.png"></a>
 	3. Mr. Rohit Akilaysh Vanne - Performed Data preprocessing. <a href="https://www.linkedin.com/in/rohit-akilaysh-vanne/"><img width=80px src="https://user-images.githubusercontent.com/50140975/124541137-6f34c500-de3e-11eb-86bb-38abcac5011e.png"></a>
 	4. Ms. Sivani Vemuri - Model Fitting and Prediction. <a href="https://www.linkedin.com/in/sivani-vemuri-5695aa14a/"><img width=80px src="https://user-images.githubusercontent.com/50140975/124541137-6f34c500-de3e-11eb-86bb-38abcac5011e.png"></a>
-	5. Mr. Samnit Mehandiratta - Model Fitting and Prediction and GitHub Documentation. <a href="https://www.linkedin.com/in/lankabhedi"><img width=80px src="https://user-images.githubusercontent.com/50140975/124541137-6f34c500-de3e-11eb-86bb-38abcac5011e.png"></a> 
+	5. Mr. Samnit Mehandiratta - EDA, Model Fitting and Prediction and GitHub Documentation. <a href="https://www.linkedin.com/in/lankabhedi"><img width=80px src="https://user-images.githubusercontent.com/50140975/124541137-6f34c500-de3e-11eb-86bb-38abcac5011e.png"></a> 
 
 * **Problem statement**: To classify individuals on the basis of the features given in the dataset.
 
