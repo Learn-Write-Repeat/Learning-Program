@@ -10,7 +10,13 @@
 
 * **Problem statement**: To classify tumors into Malignant and Benign based on the given features.
 
-* **Libraries Used**: Sklearn, Seaborn, Matplotlib, Pandas, Numpy7
+* **Libraries Used**: Sklearn, Seaborn, Matplotlib, Pandas, Numpy
+
+<img width=100px src=https://user-images.githubusercontent.com/50140975/124541682-8e802200-de3f-11eb-9b8a-f78129c77a14.png><img width=100px src=https://user-images.githubusercontent.com/50140975/124541707-993ab700-de3f-11eb-8ff0-9270ba0a13ab.png><img width=100px src=https://user-images.githubusercontent.com/50140975/124541723-a48de280-de3f-11eb-901a-9db66df801bc.png><img width=100px src=https://user-images.githubusercontent.com/50140975/124541763-b8d1df80-de3f-11eb-8a0f-ddc34b4dc979.png><img width=100px src=https://user-images.githubusercontent.com/50140975/124541790-c4bda180-de3f-11eb-8755-abbd6246ae6b.png>
+
+
+
+
 
 * **Important Insights derived from EDA**:
 	1. There are total 31 columns and 569 rows.
