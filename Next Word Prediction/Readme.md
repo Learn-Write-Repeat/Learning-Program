@@ -9,14 +9,16 @@ be so: at Lear, When I did profess the hour-stranger for my life, When I did sin
 Some beds which seeks chaste senses prove burning; But he perforces seen in her eyes so fast; And _
 
 ### Project Memmbers
-Hemaraj Dhakal
-Simran Yadav
-Dharmik Vara
-Mohammad Shanawaz Anwar
-Akshita Sharma
-Akshat Sachan
+<br>Hemaraj Dhakal</br>
+<br>Simran Yadav</br>
+<br>Dharmik Vara</br>
+<br>Mohammad Shanawaz Anwar</br>
+<br>Akshita Sharma</br>
+<br>Akshat Sachan</br>
 
 ### Tech Stack
-Python
-Tensorflow/ Keras
-Numpy
+<br>Python</br>
+<br>Tensorflow/ Keras</br>
+<br>Numpy</br>
+
+
