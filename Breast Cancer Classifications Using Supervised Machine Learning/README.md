@@ -6,7 +6,7 @@
 
 * **Team Members**: 
 	1. Ms. Jyotsana Kumari Gupta - Performed Data preprocessing and Exploratory Data Analysis. <a href="https://www.linkedin.com/in/jyotsana-kumari-gupta-404814196"><img width=80px src="https://user-images.githubusercontent.com/50140975/124541137-6f34c500-de3e-11eb-86bb-38abcac5011e.png"></a> 
-	2. Mr. Samnit Mehandiratta - Model Fitting and Prediction and GitHub Documentation. <a href="https://www.linkedin.com/lankabhedi"><img width=80px src="https://user-images.githubusercontent.com/50140975/124541137-6f34c500-de3e-11eb-86bb-38abcac5011e.png"></a> 
+	2. Mr. Samnit Mehandiratta - Model Fitting and Prediction and GitHub Documentation. <a href="https://www.linkedin.com/in/lankabhedi"><img width=80px src="https://user-images.githubusercontent.com/50140975/124541137-6f34c500-de3e-11eb-86bb-38abcac5011e.png"></a> 
 
 * **Problem statement**: To classify tumors into Malignant and Benign based on the given features.
 
