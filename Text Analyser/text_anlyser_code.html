@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Word Counter</title>
+</head>
+
+<style>
+    body{
+    font-size=24;
+    font-family:arial;
+    }
+</style>
+
+
+<script>
+    function countWords()
+    {
+        var text= document.getElementById("inputTextField").value;
+        var numWords=0;
+<!--        numWords.trim();-->
+        for (var i=0; i<text.length; i++)
+        {
+            var currentCharacter=text[i];
+            if (currentCharacter==" ")
+            {
+                numWords +=1;
+            }
+        }
+        numWords+=1
+        document.getElementById("numWordsOutput").innerHTML= numWords +" words";
+    }
+</script>
+<body>
+<h1>Word Counter</h1>
+<textarea id="inputTextField" row=300 cols=100></textarea>
+<br><br>
+<button onclick="countWords()">Count words</button>
+<br>
+<div id="numWordsOutput">0 words</div>
+</body>
+</html>
