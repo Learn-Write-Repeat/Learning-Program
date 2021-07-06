@@ -15,7 +15,7 @@ Wx-Python
 
 ### How Mediapipe works
 MediaPipe Hands is a high-fidelity hand and finger tracking solution. It employs machine learning (ML) to infer 21 3D landmarks of a hand from just a single frame. Whereas current state-of-the-art approaches rely primarily on powerful desktop environments for inference, our method achieves real-time performance on a mobile phone, and even scales to multiple hands. We hope that providing this hand perception functionality to the wider research and development community will result in an emergence of creative use cases, stimulating new applications and new research avenues.<br>
-![Hand tracking gif](https://google.github.io/mediapipe/images/mobile/hand_tracking_3d_android_gpu.gif)<br>
+
 ![Hand landmarks](https://google.github.io/mediapipe/images/mobile/hand_landmarks.png)<br>
 ![Hand tracking in different postures](https://google.github.io/mediapipe/images/mobile/hand_crops.png)<br>
 
