@@ -1,0 +1,137 @@
+//HTML
+
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+  
+<div id="main">
+  <h1 id="title">Mother Teresa (1910–1997)</h1>
+  <p><b>Albanian-Indian Roman Catholic nun and missionary</b></p>
+ 
+  <div id="img-div">
+    <img id="image" alt="mother teresa image" src="https://i.postimg.cc/rsjNvhBg/mother-teresa-image.jpg" />
+    
+    <figcaption  id="img-caption" ><i><b>"Peace begins with a smile...</b></i></figcaption>
+    <figcaption  id="img-caption" ><i>There are no great things, only small things with great love. Happy are those.</i></figcaption>
+      <figcaption  id="img-caption" ><i>If you judge people, you have no time to love them."</body></i></figcaption>
+    <p>-- MOTHER TERESA</p>
+    
+    
+  </div>
+  
+  <div id="tribute-info">
+    <h3>MOTHER TERESA, THE NUN WHO BECAME A SAINT</h3>
+    <p>Mother Teresa was the founder of the Order of the Missionaries of Charity, a Roman Catholic congregation of women dedicated to helping the poor. Considered one of the 20th Century's greatest humanitarians, she was canonized as Saint Teresa of Calcutta in 2016.</p>
+    
+    
+    <h4>MOTHER TERESA’S FAMILY AND YOUNG LIFE</h4>
+    <P>Mother Teresa was born on August 26, 1910, in Skopje, the current capital of the Republic of Macedonia. The following day, she was baptized as Agnes Gonxha Bojaxhiu.</P>
+    <P>Mother Teresa’s parents, Nikola and Dranafile Bojaxhiu, were of Albanian descent; her father was an entrepreneur who worked as a construction contractor and a trader of medicines and other goods. The Bojaxhius were a devoutly Catholic family, and Nikola was deeply involved in the local church as well as in city politics as a vocal proponent of Albanian independence.</P>
+    <P>In 1919, when Mother Teresa — then Agnes — was only eight years old, her father suddenly fell ill and died. While the cause of his death remains unknown, many have speculated that political enemies poisoned him.</P>
+    <P>In the aftermath of her father's death, Agnes became extraordinarily close to her mother, a pious and compassionate woman who instilled in her daughter a deep commitment to charity. Although by no means wealthy, Drana Bojaxhiu extended an open invitation to the city's destitute to dine with her family. "My child, never eat a single mouthful unless you are sharing it with others," she counseled her daughter. When Agnes asked who the people eating with them were, her mother uniformly responded, "Some of them are our relations, but all of them are our people."</P>
+    
+    <h4>MOTHER TERESA’S AWARDS AND RECOGNITION</h4>
+    <P>In February 1965, Pope Paul VI bestowed the Decree of Praise upon the Missionaries of Charity, which prompted Mother Teresa to begin expanding internationally. By the time of her death in 1997, the Missionaries of Charity numbered more than 4,000 — in addition to thousands more lay volunteers — with 610 foundations in 123 countries around the world.</P>
+    <P>The Decree of Praise was just the beginning, as Mother Teresa received various honors for her tireless and effective charity. She was awarded the Jewel of India, the highest honor bestowed on Indian civilians, as well as the now-defunct Soviet Union's Gold Medal of the Soviet Peace Committee. In 1979, Mother Teresa was awarded the Nobel Peace Prize in recognition of her work "in bringing help to suffering humanity."</P>
+    
+    <h4>LAST WORDS OF MOTHER TERESA'S</h4>
+    <P><strong>"I cannot breathe"</strong> were her last words, according to Sunita Kumar, her close friend.</P>
+    
+    <h4>MIRACALS DONE BY MOTHER TERESA</h4>
+    <ul>
+      <li>Her first miracle was curing a woman with a lump growing in her abdomen.</li>
+      <li>Her second miracle was curing a man who had brain abscesses.</li>
+    </UL>
+    
+    <h4>DEATH</h4>
+    <P>After several years of deteriorating health, including heart, lung and kidney problems, Mother Teresa died on September 5, 1997, at the age of 87.</P>
+    
+    <h4>HERE ARE SOME OF THE GREAT QUOTES OF MOTHER TERESA</h4>
+       
+    <ul>
+      <li>If you judge people, you have no time to love them.</li>
+      <li>Yesterday is gone. Tomorrow has not yet come. We have only today.</li>
+      <li>It’s not about how much you do, but how much love you put into what you do that counts.</li>
+      <li>Intense love does not measure. It just gives.</li>
+      <li>Do not wait for leaders; do it alone, person to person.</li>
+      <li>If you are humble nothing will touch you, neither praise nor disgrace, because you know what you are.</li>
+    </ul>    
+    
+    <i>"Not all of us can do great things. But we can do small things with great love"</i> <br><br>
+    <i>-- MOTHER TERESA</i>
+  </div>
+  
+  <h5>
+    Learn more about Mother Teresa on <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Mother_Teresa">Wikipedia</>.
+  </h5>
+</div>
+  <footer>
+      <p><strong>Coded by <strong>Nikita Sakharwade</strong></p>
+   </footer>
+   
+   
+   //CSS
+   
+   body {
+  font-family: "Lato", sans-serif;
+  font-size: 20px;
+}
+
+#main {
+  max-width: 1280px;
+  max-height: 100%;
+  margin: 30px auto;
+  padding: 15px;
+  background-color: #f0e3ce;
+  border-radius: 5px;
+}
+
+#title {
+  text-align: center;
+}
+
+#main > p {
+  text-align: center;
+}
+
+#img-div{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 15px;
+  background-color: #b3ffb3;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  padding-bottom: 10px;
+}
+
+#tribute-info {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#tribute-info > h3 {
+  text-align: center;
+}
+
+#tribute-info > ul li {
+  margin-bottom: 10px;
+  line-height: 30px;
+}
+
+h5{
+   text-align: center;
+   color: #CC0000;
+   font-weight: bold;
+}
+footer {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 15px;
+	text-align: center;
+	margin-bottom: -15px;
+	background-color: black;
+	color: white;
+	padding: 5px 5px 5px 5px;
+}
+
