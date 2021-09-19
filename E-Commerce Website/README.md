@@ -38,6 +38,6 @@ This repository has been made by:- <br/>
 
 ## Contribution: - 
 <ol>
-<li>Md Adnan Hussain:- Making the Complete Project from Scatch & Pushing the code on GitHub</li>
+<li>Md Adnan Hussain:- Making the Complete Project from Scratch & Pushing the code on GitHub</li>
 <li>Shashank:- N/A
 </ol>
