@@ -14,11 +14,11 @@ Batch: dlp-aug-ml-6
 	Seaborn
 
 ### GROUP MEMBERS: 
-   Aryan Vijay Singh
-   Payoja Muduli WD ML
+    - Aryan Vijay Singh
+    - Payoja Muduli WD ML
 ### MENTORS:
-   Anushka Dixit
-   Namrata
+    - Anushka Dixit
+    - Namrata
 
 
 
