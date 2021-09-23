@@ -20,9 +20,3 @@ This repository has been made by:- <br/>
 <li>Abu Afza (<a href="mailto:afza22bd@gmail.com">afza22bd@gmail.com</a>)</li>
 <li>Devanshi Mishra  (<a href="mailto:devu2732@gmail.com">devu2732@gmail.com</a>)</li>
 </ol>
-
-## Contribution: - 
-<ol>
-<li>Naina Baghel:- Making the Complete Project from Scatch & Pushing the code on GitHub</li>
-<li>Shashank:- N/A
-</ol>
