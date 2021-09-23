@@ -1,6 +1,6 @@
 # Bank-Marketing-Campaign-Analysis
 
-Batch: dlp-aug-ml-6
+Batch: dlp-aug-21-ml-3
 
 - Analyse a bank's prior marketing initiatives by using various ML methods such as Logistic Regression, Random Forests, Decision Trees, Gradient Boosting, and AdaBoost and predict if the user will purchase a term deposit from the bank.
 
