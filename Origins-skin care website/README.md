@@ -2,10 +2,10 @@
 
 Batch: dlp-aug-21-wd-1
 
-- A simple website for beauty products
+- A simple website for beauty products of Origins
 
 
-LIBRARIES AND PACKAGES:
+Tech Stacks:
  We have used here:
       Html Css Javascript
 
