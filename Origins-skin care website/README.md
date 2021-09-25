@@ -6,13 +6,13 @@ Batch: dlp-aug-21-wd-1
 
 
 Tech Stacks:
- We have used here:
+ I have used here:
       Html Css Javascript
 
-GROUP MEMBERS: 
+GROUP MEMBER: 
 Payoja Muduli WD ML
 
-MENTORS:
+MENTOR:
  Devanshi Mishra
 
 
